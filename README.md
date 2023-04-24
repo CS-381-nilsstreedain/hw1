@@ -40,7 +40,7 @@ fn main() {
 	println!("Hello, World!");
 }
 ```
-This program defines a main function, which is the entry point of the Rust program. The println! macro is used to print the "Hello, World!" string to the console. Here is a screenshot of the execution:
+This program defines a **main** function, which is the entry point of the Rust program. The **println!** macro is used to print the "Hello, World!" string to the console. Here is a screenshot of the execution:
 
 ![page3image30977968](https://user-images.githubusercontent.com/25465133/233872802-87b2f71c-0ee7-43a2-b3f2-87b06909bb25.png)
 
@@ -72,7 +72,7 @@ fn main() {
 	}
 }
 ```
-This program reads an integer n from the user, then iteratively computes the first n Fibonacci numbers. It uses a loop to perform the calculations and print the Fibonacci numbers. The program is iterative. Here is a screenshot of the execution:
+This program reads an integer **n** from the user, then iteratively computes the first **n** Fibonacci numbers. It uses a loop to perform the calculations and print the Fibonacci numbers. The program is iterative. Here is a screenshot of the execution:
 
 ![page5image32007472](https://user-images.githubusercontent.com/25465133/233872963-018277f5-9a04-45ef-b1fd-73c17e0f354a.png)
 
@@ -96,14 +96,15 @@ fn main() {
 	println!("After sorting: {:?}", nums);
 }
 ```
-This program defines a function bubble_sort that takes a mutable reference to an array of i32 integers. The function iterates through the array, comparing adjacent elements. If an element is greater than the next one, the elements are swapped. This process is repeated until the entire array is sorted.
-In the main function, we create an array of integers called nums and print it before and after sorting. We call the bubble_sort function with a mutable reference to nums to sort the array in-place. Here is a screenshot of the execution:
+This program defines a function **bubble_sort** that takes a mutable reference to an array of i32 integers. The function iterates through the array, comparing adjacent elements. If an element is greater than the next one, the elements are swapped. This process is repeated until the entire array is sorted.
+
+In the **main** function, we create an array of integers called **nums** and print it before and after sorting. We call the **bubble_sort** function with a mutable reference to **nums** to sort the array in-place. Here is a screenshot of the execution:
 
 ![page7image30984272](https://user-images.githubusercontent.com/25465133/233873142-21e41875-dca9-4f97-9097-9b29973404aa.png)
 
 ## List at least three references you used for this assignment. Include any sites that you used to obtain code.
 Here are three references I used for this assignment:
-1. [The Rust Programming Language - Official Documentation](https://doc.rust-lang.org/book/)
+1. [Official Documentation](https://doc.rust-lang.org/book/)
 2. [Rust Playground](https://play.rust-lang.org/)
 3. [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
 
