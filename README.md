@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1 - Languages
 ## Select a programming language you have not used (NOT Haskell or Prolog). Give a brief history of this language. Who developed the language? When? Where?
 I have chosen the Rust programming language for this assignment. Rust was initially designed by Graydon Hoare as a personal project in 2006. Mozilla began sponsoring the project in 2009, and in 2010, the project was officially announced. Rust's first stable release, Rust 1.0, was launched on May 15, 2015.
 
